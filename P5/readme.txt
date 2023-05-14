@@ -1,0 +1,1 @@
+calculating how many hours, minutes, seconds the N Seconds is.
