@@ -1,0 +1,1 @@
+calculating the minimum and maximum of 3 numbers.
