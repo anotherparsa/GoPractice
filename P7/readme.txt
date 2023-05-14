@@ -1,0 +1,1 @@
+taking the triangle's sides and determine if it's a right triangle or not.
