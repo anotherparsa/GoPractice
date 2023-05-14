@@ -1,0 +1,1 @@
+calculating how many KG and G the n is.
