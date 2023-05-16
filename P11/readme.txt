@@ -1,0 +1,1 @@
+detecting the letters and numbers of a string
