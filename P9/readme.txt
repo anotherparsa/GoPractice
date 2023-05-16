@@ -1,0 +1,1 @@
+detecting the lower and upper case letters of a string
